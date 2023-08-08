@@ -1,20 +1,22 @@
-body{
+body {
     margin: 0;
     padding: 0;
 
 }
 
-.navbar{
-    display: flex;
-    justify-content: space-around;
+.navbar {
+    padding-top: 0;
+    border: 2px solid;
     width: 100%;
     height: 70px;
-} 
- 
-ul{
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
     text-decoration: none;
 }
 
-a{
+a {
     list-style-type: none;
 }
