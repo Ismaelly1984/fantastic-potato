@@ -5,6 +5,7 @@ body {
 }
 
 .navbar {
+    display:none;
     padding-top: 0;
     border: 2px solid;
     width: 100%;
