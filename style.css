@@ -11,7 +11,7 @@ body {
     height: 70px;
 }
 
-ul {
+.lista-nav{
     display: flex;
     justify-content: space-around;
     text-decoration: none;
@@ -19,4 +19,10 @@ ul {
 
 a {
     list-style-type: none;
+}
+.lista-menu{
+    display: block;
+    width: 100%;
+    height: 40px;
+    border: 2px solid;
 }
